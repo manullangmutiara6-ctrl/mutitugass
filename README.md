@@ -11,7 +11,7 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 - **Language:** TypeScript
 
 ## 🚀 Cara Menjalankan
-1. Clone repository ini.
+1. Clone repository ini: https://github.com/manullangmutiara6-ctrl/mutitugass/blob/main/README.md
 2. Jalankan `npm install`.
 3. Jalankan `npx expo start`.
 
