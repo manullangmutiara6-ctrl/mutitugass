@@ -14,3 +14,7 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 1. Clone repository ini.
 2. Jalankan `npm install`.
 3. Jalankan `npx expo start`.
+
+
+## 🥨 Live Preview (Expo Snack)
+[Klik di sini untuk melihat aplikasi secara langsung](https://snack.expo.dev/@revalina/tugas-mutiara)
